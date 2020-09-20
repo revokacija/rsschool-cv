@@ -31,3 +31,7 @@ header img {
     border-radius: 100%;
     margin-left: 50px;
 }
+
+.contacts a, .experience a{
+    text-decoration: none;
+}
