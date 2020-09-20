@@ -12,3 +12,14 @@
 - Webpack/Gulp
 - Git
 - Photoshop, Figma, Avacode
+
+### **Experience**
+Finished courses:
+- [Web Developer 2020](https://www.udemy.com/course/webdeveloper/)
+- [Practical JavaScript](https://js.itgid.info/)
+
+
+### English
+
+- Level: A2
+- Self-study through online courses, videos, books, etc.
